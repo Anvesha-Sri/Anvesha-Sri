@@ -65,9 +65,6 @@
 
 <h3 align="center">⚡Stats ⚡</h3>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Anvesha-Sri&locale=en&mode=daily&theme=aura&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
 
 
 <picture>
@@ -76,15 +73,20 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Anvesha-Sri/Anvesha-Sri/pacman-output/galaga-contribution-graph.svg">
 </picture>
 
-
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Anvesha-Sri/Anvesha-Sri/stats-output/stats.svg" height="75" alt="stats graph" /> <br>
-  <img src="https://raw.githubusercontent.com/Anvesha-Sri/Anvesha-Sri/languages-output/languages.svg" height="70" alt="languages graph"  />
-</div>
-
-
 <div align="center">
   <h3>✍️ Random Dev Quote</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" height="400" alt="Random Quote"/>
 </div>
+
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Anvesha-Sri&locale=en&mode=daily&theme=aura&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph" />
+</div>
+
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Anvesha-Sri/Anvesha-Sri/stats-output/stats.svg" height="220" alt="stats graph" /> 
+  <img src="https://raw.githubusercontent.com/Anvesha-Sri/Anvesha-Sri/languages-output/languages.svg" height="300" alt="languages graph"  />
+</div>
+
+
