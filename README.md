@@ -1,22 +1,94 @@
-# 💫 About Me:
-Aspiring Frontend Developer | Creating engaging user experiences with HTML, CSS, and JavaScript | Eager to contribute and grow in a collaborative team environment.
+<div align="center">
+  <img height="220" src="https://raw.githubusercontent.com/Anvesha-Sri/Anvesha-Sri/main/image.png" alt="Anvesha Srivastava Banner"/>
+</div>
+
+<br>
+
+<h1 align="center">Hello , It's Anvesha 👋</h1>
+
+<div align="center">
+  <img src="https://count.getloli.com/@:Anvesha-Sri?theme=booru-lisu&padding=6&offset=1&align=bottom&pixelated=1&darkmode=1" />
+</div>
+
+<h3 align="center">👩‍💻 About Me</h3>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/anveshasrivastava/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo" />
+  </a>
+  <a href="anveshasrivastava02@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo" />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="60" height="40" alt="devto logo" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="60" height="40" alt="codepen logo" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="60" height="40" alt="hackerrank logo" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="60" height="40" alt="medium logo" />
+</div>
+
+<p align="center">Integrated M.Tech | Cyber Security Scholar | Front - end Web Development | Design</p>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anveshasrivastava/) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Anvesha-Srivastava) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anveshasrivastava02@gmail.com) 
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
+<h4 align="left">I'm Anvesha from UP, India<br><br>- 🔭 I’m student at VIT Bhopal University<br>- 📚 I'm currently learning React JS , Vue JS & Angular JS<br>- ⚡ In my free time I love Designing.<br>- 🌐 Eager to contribute in Open Souce.</h4>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Anvesha-Sri&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Anvesha-Sri&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anvesha-Sri&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h3 align="center">🛠 Language, Tools & Frameworks</h3>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="43" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="43" alt="css logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="43" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="43" alt="bootstrap logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="43" alt="sass logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="43" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="43" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="43" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="43" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="43" alt="cplusplus logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="43" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="43" alt="github logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="43" alt="canva logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="43" alt="vscode logo" />
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Anvesha-Sri&limit=10&theme=radical&combine_all_yearly_contributions=true)
+<h3 align="center">⚡Stats ⚡</h3>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Anvesha-Sri&locale=en&mode=daily&theme=aura&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph" />
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anvesha-Sri/Anvesha-Sri/pacman-output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anvesha-Sri/Anvesha-Sri/pacman-output/galaga-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Anvesha-Sri/Anvesha-Sri/pacman-output/galaga-contribution-graph.svg">
+</picture>
+<h3 align="center">📊 Contribution Graph</h3>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anvesha-Sri/Anvesha-Sri/main/pacman-output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anvesha-Sri/Anvesha-Sri/main/pacman-output/galaga-contribution-graph.svg">
+  <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/Anvesha-Sri/Anvesha-Sri/main/pacman-output/galaga-contribution-graph.svg">
+</picture>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Anvesha-Sri/Anvesha-Sri/stats-output/stats.svg" height="75" alt="stats graph" /> <br>
+  <img src="https://raw.githubusercontent.com/Anvesha-Sri/Anvesha-Sri/languages-output/languages.svg" height="70" alt="languages graph" />
+</div>
+
+
+<div align="center">
+  <h3>✍️ Random Dev Quote</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote"/>
+</div>
