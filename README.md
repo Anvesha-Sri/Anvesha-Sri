@@ -71,9 +71,9 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="[https://raw.githubusercontent.com/Anvesha-Sri/Anvesha-Sri/pacman-output/galaga-contribution-graph-dark.svg](https://github.com/Anvesha-Sri/Anvesha-Sri/blob/main/arcade.yml)">
-  <source media="(prefers-color-scheme: light)" srcset="(https://github.com/Anvesha-Sri/Anvesha-Sri/blob/main/arcade.yml)">
-  <img alt="pacman contribution graph" src="(https://github.com/Anvesha-Sri/Anvesha-Sri/blob/main/arcade.yml)">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anvesha-Sri/Anvesha-Sri/pacman-output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anvesha-Sri/Anvesha-Sri/pacman-output/galaga-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Anvesha-Sri/Anvesha-Sri/pacman-output/galaga-contribution-graph.svg">
 </picture>
 
 
