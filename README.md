@@ -72,18 +72,15 @@
 
 <div align="center">
   <h3>✍️ Random Dev Quote</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" height="400" alt="Random Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" height="400" alt="Random Quote"/>
 </div>
 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Anvesha-Sri&locale=en&mode=daily&theme=aura&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Anvesha-Sri&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true" /> 
+  <img src="https://streak-stats.demolab.com/?user=Anvesha-Sri&theme=blue-green&hide_border=true" /> 
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Anvesha-Sri&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Anvesha-Sri/Anvesha-Sri/stats-output/stats.svg" height="220" alt="stats graph" /> 
-  <img src="https://raw.githubusercontent.com/Anvesha-Sri/Anvesha-Sri/languages-output/languages.svg" height="300" alt="languages graph"  />
-</div>
 
 
