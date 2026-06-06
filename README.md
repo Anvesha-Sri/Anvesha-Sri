@@ -4,13 +4,13 @@
 
 <br>
 
-<h1 align="center">Hello , It's Anvesha 👋</h1>
+<h1 align="center">Hello , It's Anvesha <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
 <div align="center">
   <img src="https://count.getloli.com/@:Anvesha-Sri?theme=booru-lisu&padding=6&offset=1&align=bottom&pixelated=1&darkmode=1" />
 </div>
 
-<h3 align="center">👩‍💻 About Me</h3>
+<h3 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">About Me</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/anveshasrivastava/" target="_blank">
@@ -26,9 +26,20 @@
 
 <p align="center">Integrated M.Tech | Cyber Security Scholar | Front - end Web Development | Design</p>
 
+```javascript
+const thai = {
+  pronouns: "she" | "her",
+  code: [Javascript, HTML, CSS, Java, C++],
+  tools: [React, Node, MySQL, Styled-Components, Git, VS Code, Canva]
+  architecture: ["design system pattern"],
+  whoami: {
+                        name:"Anvesha",
+                        student: "VITBHOPALUniversity"
+                      },
+ challenge: "I am currently learning Angular JS & PostgreSQL."
+}
+```
 
-
-<h4 align="left">I'm Anvesha from UP, India<br><br>- 🔭 I’m student at VIT Bhopal University<br>- 📚 I'm currently learning React JS , Vue JS & Angular JS<br>- ⚡ In my free time I love Designing.<br>- 🌐 Eager to contribute in Open Souce.</h4>
 
 <h3 align="center">🛠 Language, Tools & Frameworks</h3>
 
@@ -38,8 +49,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="43" alt="css logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="43" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="43" alt="bootstrap logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="43" alt="sass logo" />
   <img width="12" />
@@ -62,7 +71,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="43" alt="vscode logo" />
 </div>
 
-<h3 align="center">⚡Stats ⚡</h3>
+<h3 align="center">⚡My GitHub Stats ⚡</h3>
 
 
 
@@ -85,4 +94,4 @@
 </div>
 
 
-
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
