@@ -6,19 +6,16 @@
 </div>
 
 <br>
-
-
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=850&color=70F78F&center=true&vCenter=true&width=435&lines=CSE+Undergrad;Aspiring+Front-End+Developer;CyberSecurity+Scholar;Love+Designing" alt="Typing SVG" /></a>
+
 </div>
 
-
-<p align="center">
-  <img src="./dev.png" width="850"/>
+<p align="left">
+  <img src="./dev.png" width="700"/>
+  <img src="./octocat.png"  width="250"/>
 </p>
 
-
-<h3 align="center">🛠 Language, Tools & Frameworks</h3>
 
   <div align="center">
 
@@ -42,20 +39,6 @@
 
 </div>
 
-<h3 align="center">⚡My GitHub Stats ⚡</h3>
-
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anvesha-Sri/Anvesha-Sri/pacman-output/galaga-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anvesha-Sri/Anvesha-Sri/pacman-output/galaga-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Anvesha-Sri/Anvesha-Sri/pacman-output/galaga-contribution-graph.svg">
-</picture>
-
-<div align="center">
-  <h3>✍️ Random Dev Quote</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" height="400" alt="Random Quote"/>
-</div>
 
 <br>
 <div align="center">
@@ -63,7 +46,12 @@
   <img src="https://streak-stats.demolab.com/?user=Anvesha-Sri&theme=blue-green&hide_border=true" /> 
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Anvesha-Sri&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </div>
-
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anvesha-Sri/Anvesha-Sri/pacman-output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anvesha-Sri/Anvesha-Sri/pacman-output/galaga-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Anvesha-Sri/Anvesha-Sri/pacman-output/galaga-contribution-graph.svg">
+</picture>
 <br>
 <div align="center">
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em></div>
