@@ -4,7 +4,7 @@
 
 <br>
 
-<h1 align="center">Hello , It's Anvesha <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<h1 align="center">Hello , It's Anvesha <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="45">&nbsp;</h1>
 
 <div align="center">
   <img src="https://count.getloli.com/@:Anvesha-Sri?theme=booru-lisu&padding=6&offset=1&align=bottom&pixelated=1&darkmode=1" />
@@ -27,48 +27,39 @@
 <p align="center">Integrated M.Tech | Cyber Security Scholar | Front - end Web Development | Design</p>
 
 ```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS, Java, C++],
-  tools: [React, Node, MySQL, Styled-Components, Git, VS Code, Canva]
-  architecture: ["design system pattern"],
-  whoami: {
-                        name:"Anvesha",
-                        student: "VITBHOPALUniversity"
-                      },
- challenge: "I am currently learning Angular JS & PostgreSQL."
-}
+const anvesha = {
+  pronouns: ["She", "Her"],
+  code: ["JavaScript", "HTML", "CSS", "Java", "C++"],
+  tools: ["React", "Node.js", "MySQL", "Git", "VS Code", "Canva"],
+  architecture: ["Design Systems"],
+  currentlyLearning: ["Angular", "PostgreSQL"],
+  challenge: "Building projects that blend creativity with technology"
+};
 ```
 
 
 <h3 align="center">🛠 Language, Tools & Frameworks</h3>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="43" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="43" alt="css logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="43" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="43" alt="sass logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="43" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="43" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="43" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="43" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="43" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="43" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="43" alt="github logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="43" alt="canva logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="43" alt="vscode logo" />
+  <div align="center">
+
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="html"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="css"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="javascript"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="react"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png" alt="bootstrap"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/sass/sass.png" alt="sass"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="git"></code>
+
+<br>
+
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" alt="github"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="java"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="python"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="mysql"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="postgresql"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva"></code>
+
 </div>
 
 <h3 align="center">⚡My GitHub Stats ⚡</h3>
