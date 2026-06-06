@@ -1,41 +1,21 @@
+<h1 align="center">Hii , I Am Anvesha <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="45">&nbsp;</h1>
+
+
 <div align="center">
   <img height="220" src="https://raw.githubusercontent.com/Anvesha-Sri/Anvesha-Sri/main/image.png" alt="Anvesha Srivastava Banner"/>
 </div>
 
 <br>
 
-<h1 align="center">Hello , It's Anvesha <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="45">&nbsp;</h1>
 
 <div align="center">
-  <img src="https://count.getloli.com/@:Anvesha-Sri?theme=booru-lisu&padding=6&offset=1&align=bottom&pixelated=1&darkmode=1" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=850&color=70F78F&center=true&vCenter=true&width=435&lines=CSE+Undergrad;Aspiring+Front-End+Developer;CyberSecurity+Scholar;Love+Designing" alt="Typing SVG" /></a>
 </div>
 
-<h3 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">About Me</h3>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/anveshasrivastava/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo" />
-  </a>
-  <a href="https://dev.to/anveshasri" tagret="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="60" height="40" alt="devto logo" />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="60" height="40" alt="codepen logo" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="60" height="40" alt="hackerrank logo" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="60" height="40" alt="medium logo" />
-</div>
-
-<p align="center">Integrated M.Tech | Cyber Security Scholar | Front - end Web Development | Design</p>
-
-```javascript
-const anvesha = {
-  pronouns: ["She", "Her"],
-  code: ["JavaScript", "HTML", "CSS", "Java", "C++"],
-  tools: ["React", "Node.js", "MySQL", "Git", "VS Code", "Canva"],
-  architecture: ["Design Systems"],
-  currentlyLearning: ["Angular", "PostgreSQL"],
-  challenge: "Building projects that blend creativity with technology"
-};
-```
+<p align="center">
+  <img src="./dev.png" width="850"/>
+</p>
 
 
 <h3 align="center">🛠 Language, Tools & Frameworks</h3>
@@ -77,12 +57,25 @@ const anvesha = {
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" height="400" alt="Random Quote"/>
 </div>
 
-
+<br>
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=Anvesha-Sri&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true" /> 
   <img src="https://streak-stats.demolab.com/?user=Anvesha-Sri&theme=blue-green&hide_border=true" /> 
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Anvesha-Sri&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<br>
+<div align="center">
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em></div>
+<br>
+<div align="center">
+  <a href="https://www.linkedin.com/in/anveshasrivastava/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo" />
+  </a>
+  <a href="https://dev.to/anveshasri" tagret="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="60" height="40" alt="devto logo" />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="60" height="40" alt="codepen logo" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="60" height="40" alt="hackerrank logo" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="60" height="40" alt="medium logo" />
+</div>
