@@ -10,7 +10,7 @@
 
 <h2 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a  href="https://shahriarshafin.github.io/"> Anvesha Srivastava </a></b>
+                <b><a  href="https://github.com/Anvesha-Sri"> Anvesha Srivastava </a></b>
                 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="40">&nbsp;
         </samp>
 </h2>
