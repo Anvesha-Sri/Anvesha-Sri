@@ -39,28 +39,34 @@
 <br>
 
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="html"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="css"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="react"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png" alt="bootstrap"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/sass/sass.png" alt="sass"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="git"></code>
+<div align="center">
+
+<!-- Row 1 -->
+
+<code><img height="38" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML5"></code>&nbsp;
+<code><img height="38" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS3"></code>&nbsp;
+<code><img height="38" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript"></code>&nbsp;
+<code><img height="38" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React"></code>&nbsp;
+<code><img height="38" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js"></code>&nbsp;
+<code><img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm"></code>&nbsp;
+<code><img height="38" src="https://raw.githubusercontent.com/github/explore/main/topics/sass/sass.png" alt="Sass"></code>&nbsp;
+<code><img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva"></code>&nbsp;
 
 <br>
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" alt="github"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="java"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="python"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="mysql"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="postgresql"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva"></code>
+<!-- Row 2 -->
+
+<code><img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"></code>&nbsp;
+<code><img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"></code>&nbsp;
+<code><img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code"></code>&nbsp;
+<code><img height="38" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java"></code>&nbsp;
+<code><img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++"></code>&nbsp;
+<code><img height="38" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python"></code>&nbsp;
+<code><img height="38" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL"></code>&nbsp;
+<code><img height="38" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="PostgreSQL"></code>&nbsp;
+
 </div>
-
 <br>
-
-
 
 <p align="center"><b>🐍 𝘾𝙊𝙉𝙏𝙍𝙄𝘽𝙐𝙏𝙄𝙊𝙉 𝙂𝙍𝘼𝙋𝙃</b></p>
 <br>
@@ -120,4 +126,8 @@
 <div align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="75">&nbsp; <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em></div>
 <br>
+
+
+
+<img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/33a7d901-2dbb-45e8-ab51-2f4942ed3e18" />
 
