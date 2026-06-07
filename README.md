@@ -1,23 +1,20 @@
-<h1 align="center">Hii , I Am Anvesha <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="45">&nbsp;</h1>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=850&color=70F78F&center=true&vCenter=true&width=435&lines=CSE+Undergrad;Aspiring+Front-End+Developer;CyberSecurity+Scholar;Love+Designing" alt="Typing SVG" /></a>
+</div>
 
 
 <div align="center">
   <img height="220" src="https://raw.githubusercontent.com/Anvesha-Sri/Anvesha-Sri/main/image.png" alt="Anvesha Srivastava Banner"/>
 </div>
-
-<br>
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=850&color=70F78F&center=true&vCenter=true&width=435&lines=CSE+Undergrad;Aspiring+Front-End+Developer;CyberSecurity+Scholar;Love+Designing" alt="Typing SVG" /></a>
-
-</div>
-
-<p align="left">
+<h1 align="center">Hii , I Am Anvesha <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="45">&nbsp; </h1>
+<p align="700">
   <img src="./dev.png" width="700"/>
-  <img src="./octocat.png"  width="250"/>
 </p>
 
 
+<p align="center"><h2 align="center">⚙️ Languages & Frameworks </h2></p>
   <div align="center">
+  <br>
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="html"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="css"></code>
@@ -38,8 +35,15 @@
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva"></code>
 
 </div>
+<br>
+<h2 align="center"> ⭐ My Github Stats</h2><br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anvesha-Sri/Anvesha-Sri/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anvesha-Sri/Anvesha-Sri/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Anvesha-Sri/Anvesha-Sri/pacman-output/pacman-contribution-graph.svg">
+</picture>
 
-
+<br>
 <br>
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=Anvesha-Sri&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true" /> 
@@ -47,11 +51,8 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Anvesha-Sri&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 <br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anvesha-Sri/Anvesha-Sri/pacman-output/galaga-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anvesha-Sri/Anvesha-Sri/pacman-output/galaga-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Anvesha-Sri/Anvesha-Sri/pacman-output/galaga-contribution-graph.svg">
-</picture>
+
+###
 <br>
 <div align="center">
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em></div>
