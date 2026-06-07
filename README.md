@@ -20,25 +20,9 @@
   <img src="./dev.png" width="850"/>
 </div>
 
-
-<p align="center"><b>🚀 𝙒𝙃𝙊 𝘼𝙈 𝙄 ?</b></p>
-<div align="center">
-🔐 Cyber Security Scholar • 💻 Front-End Developer • 🎨 UI/UX Enthusiast
-<br>
-🎓 Integrated M.Tech @ VIT Bhopal University • 🌱 Learning DSA & Modern Web Technologies • 🚀 Open Source Explorer
-
-</div>
-
-
-<br>
-<br>
-
 <div align="center">
 <p align="center"><b>⚙️ 𝙏𝙀𝘾𝙃 𝙎𝙏𝘼𝘾𝙆</b></p>
-
-<br>
-
-
+  <br>
 <div align="center">
 
 <!-- Row 1 -->
@@ -67,6 +51,21 @@
 
 </div>
 <br>
+<br>
+<p align="center"><b>🚀 𝙒𝙃𝙊 𝘼𝙈 𝙄 ?</b></p>
+<br>
+<div align="center">
+🔐 Cyber Security Scholar • 💻 Front-End Developer • 🎨 UI/UX Enthusiast
+<br>
+🎓 Integrated M.Tech @ VIT Bhopal University • 🌱 Learning DSA & Modern Web Technologies • 🚀 Open Source Contributor SSoC'26
+
+</div>
+
+
+<br>
+
+<br>
+
 
 <p align="center"><b>🐍 𝘾𝙊𝙉𝙏𝙍𝙄𝘽𝙐𝙏𝙄𝙊𝙉 𝙂𝙍𝘼𝙋𝙃</b></p>
 <br>
@@ -75,6 +74,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anvesha-Sri/Anvesha-Sri/pacman-output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Anvesha-Sri/Anvesha-Sri/pacman-output/pacman-contribution-graph.svg">
 </picture>
+<br>
 <br>
 <br>
 
@@ -128,6 +128,4 @@
 <br>
 
 
-
-<img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/33a7d901-2dbb-45e8-ab51-2f4942ed3e18" />
 
