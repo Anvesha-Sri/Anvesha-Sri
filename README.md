@@ -11,7 +11,7 @@
 <h2 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a  href="https://shahriarshafin.github.io/"> Anvesha Srivastava </a></b>
-                <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="45">&nbsp;
+                <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="40">&nbsp;
         </samp>
 </h2>
 
@@ -21,30 +21,21 @@
 </div>
 
 
-<h2 align="center">WhoAmI 🤔❓</h2>
-
+<p align="center"><b>🚀 𝙒𝙃𝙊 𝘼𝙈 𝙄 ?</b></p>
 <div align="center">
-
-🔐 Cyber Security Scholar at VIT Bhopal University
-
-💻 Front-End Developer passionate about React & UI Design
-
-🎨 Love creating visually engaging user experiences
-
-🌱 Currently learning Angular, PostgreSQL & SOC Analysis
-
-🚀 Open to collaborations and open-source contributions
+🔐 Cyber Security Scholar • 💻 Front-End Developer • 🎨 UI/UX Enthusiast
+<br>
+🎓 Integrated M.Tech @ VIT Bhopal University • 🌱 Learning DSA & Modern Web Technologies • 🚀 Open Source Explorer
 
 </div>
+
+
 <br>
 <br>
 
 <div align="center">
+<p align="center"><b>⚙️ 𝙏𝙀𝘾𝙃 𝙎𝙏𝘼𝘾𝙆</b></p>
 
-<img src="https://img.shields.io/badge/Tech%20Stack-Blue_Green?style=for-the-badge&color=0D1117&labelColor=70F78F"/>
-
-
-<br>
 <br>
 
 
@@ -70,7 +61,8 @@
 <br>
 
 
-<div align="center"> 💹 Github Contribution Graph </div>
+
+<p align="center"><b>🐍 𝘾𝙊𝙉𝙏𝙍𝙄𝘽𝙐𝙏𝙄𝙊𝙉 𝙂𝙍𝘼𝙋𝙃</b></p>
 <br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anvesha-Sri/Anvesha-Sri/pacman-output/pacman-contribution-graph-dark.svg">
@@ -80,8 +72,9 @@
 <br>
 <br>
 
-<div align="center"> ⭐ My Github Stats </div>
+<p align="center"><b>💹 𝙂𝙄𝙏𝙃𝙐𝘽 𝘼𝙉𝘼𝙇𝙔𝙏𝙄𝘾𝙎</b></p>
 <div align="center">
+
 
 <!-- ROW 1 -->
 <img width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anvesha-Sri&theme=algolia" />
@@ -99,8 +92,10 @@
 
 
 <br>
+<br>
 
 
+<p align="center"><b> 𝘾𝙊𝙉𝙉𝙀𝘾𝙏 𝙒𝙄𝙏𝙃 𝙈𝙀</b></p>
 <br>
 <div align="center">
   <a href="https://www.linkedin.com/in/anveshasrivastava/" target="_blank">
