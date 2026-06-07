@@ -1,20 +1,52 @@
+
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=850&color=70F78F&center=true&vCenter=true&width=435&lines=CSE+Undergrad;Aspiring+Front-End+Developer;CyberSecurity+Scholar;Love+Designing" alt="Typing SVG" /></a>
 </div>
 
 
 <div align="center">
-  <img height="220" src="https://raw.githubusercontent.com/Anvesha-Sri/Anvesha-Sri/main/image.png" alt="Anvesha Srivastava Banner"/>
+  <img height="100%" src="https://raw.githubusercontent.com/Anvesha-Sri/Anvesha-Sri/main/image.png" alt="Anvesha Srivastava Banner"/>
 </div>
-<h1 align="center">Hii , I Am Anvesha <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="45">&nbsp; </h1>
-<p align="700">
-  <img src="./dev.png" width="700"/>
-</p>
+
+<h2 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a  href="https://shahriarshafin.github.io/"> Anvesha Srivastava </a></b>
+                <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="45">&nbsp;
+        </samp>
+</h2>
 
 
-<p align="center"><h2 align="center">⚙️ Languages & Frameworks </h2></p>
-  <div align="center">
-  <br>
+<div align="center"> 
+  <img src="./dev.png" width="850"/>
+</div>
+
+
+<h2 align="center">WhoAmI 🤔❓</h2>
+
+<div align="center">
+
+🔐 Cyber Security Scholar at VIT Bhopal University
+
+💻 Front-End Developer passionate about React & UI Design
+
+🎨 Love creating visually engaging user experiences
+
+🌱 Currently learning Angular, PostgreSQL & SOC Analysis
+
+🚀 Open to collaborations and open-source contributions
+
+</div>
+<br>
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Tech%20Stack-Blue_Green?style=for-the-badge&color=0D1117&labelColor=70F78F"/>
+
+
+<br>
+<br>
+
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="html"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="css"></code>
@@ -33,38 +65,60 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="postgresql"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva"></code>
-
 </div>
+
 <br>
-<h2 align="center"> ⭐ My Github Stats</h2><br>
+
+
+<div align="center"> 💹 Github Contribution Graph </div>
+<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anvesha-Sri/Anvesha-Sri/pacman-output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anvesha-Sri/Anvesha-Sri/pacman-output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Anvesha-Sri/Anvesha-Sri/pacman-output/pacman-contribution-graph.svg">
 </picture>
+<br>
+<br>
 
-<br>
-<br>
+<div align="center"> ⭐ My Github Stats </div>
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Anvesha-Sri&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true" /> 
-  <img src="https://streak-stats.demolab.com/?user=Anvesha-Sri&theme=blue-green&hide_border=true" /> 
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Anvesha-Sri&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+
+<!-- ROW 1 -->
+<img width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anvesha-Sri&theme=algolia" />
+<img width="33%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Anvesha-Sri&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+<img width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anvesha-Sri&theme=2077&utcOffset=5.5" />
 </div>
 <br>
 
-###
-<br>
 <div align="center">
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em></div>
+
+<!-- ROW 2 -->
+<img width="43%" src="https://streak-stats.demolab.com/?user=Anvesha-Sri&theme=blue-green&hide_border=true" />
+<img width="56%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anvesha-Sri&theme=blue_green" />
+</div>
+
+
+<br>
+
+
 <br>
 <div align="center">
   <a href="https://www.linkedin.com/in/anveshasrivastava/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=yellow&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://dev.to/anveshasri" tagret="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="60" height="40" alt="devto logo" />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="60" height="40" alt="codepen logo" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="60" height="40" alt="hackerrank logo" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="60" height="40" alt="medium logo" />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
+  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
+  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
+  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codepen logo"  />
 </div>
+
+###
+<br>
+
+
+
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="75">&nbsp; <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em></div>
+<br>
+
