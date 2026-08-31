@@ -107,24 +107,25 @@
   <a href="https://www.linkedin.com/in/anveshasrivastava/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=yellow&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-   <a href="https://dev.to/anveshasri" target="_blank">
+   <a href="https://dev.to/anveshasr" target="_blank">
   <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
    </a>
    <a href="https://tryhackme.com/p/anveshasri" target="_blank">
   <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
    </a>
   <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
- <a href="https://leetcode.com/u/Anvesha-Sri/" target="_blank">
+ <a href="" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="leetcode logo" />
 </a>
 
-<a href="https://codolio.com/profile/anvesha.sri" target="_blank">
+<a href="https://codolio.com/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Codolio&logo=codeforces&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codolio logo" />
 </a>
   <!--
   <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
   <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codepen logo"  />
-</div>
+</div>https://codolio.com/profile/anvesha.sri
+https://leetcode.com/u/Anvesha-Sri/
 -->
 
 ###
